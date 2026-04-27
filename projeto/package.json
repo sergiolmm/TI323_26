@@ -1,0 +1,29 @@
+{
+  "name": "aula_tec",
+  "version": "1.0.0",
+  "description": "Aula de exemplo git actions",
+  "keywords": [
+    "actions",
+    "node",
+    "jest"
+  ],
+  "homepage": "https://github.com/sergiolmm/TI323_26#readme",
+  "bugs": {
+    "url": "https://github.com/sergiolmm/TI323_26/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiolmm/TI323_26.git"
+  },
+  "license": "ISC",
+  "author": "SLMM",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

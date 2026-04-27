@@ -1,0 +1,9 @@
+# Dependencias
+node_modules/
+
+# ide e editores
+.vscode
+
+# S)
+.DS_Store
+Thumbs.db
