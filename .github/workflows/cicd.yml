@@ -8,7 +8,7 @@ on: # [push] # como sera o gatilho
   paths:
     - 'projeto/**'
 
-workflow_dispatch:
+ workflow_dispatch:
   inputs:
     environment:
       description: Força Bruta
