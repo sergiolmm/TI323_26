@@ -1,0 +1,9 @@
+
+Criar um diretorio na pasta raiz com o nome
+.github
+dentro do .github criar um diretorio 
+workflows
+ai dentro do workflows criar os arquivo com
+extensão .yml 
+criar o arquivo cicd.yml
+
